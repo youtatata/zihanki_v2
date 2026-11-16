@@ -104,6 +104,10 @@ npm run build   # 型チェック + ビルド
 npm run lint
 ```
 
+## 今後の目標
+
+- サーバーに公開し、実際にユーザーに使ってもらう（学生時代の版でやり残したこと）
+
 ## 旧版について
 
 学生時代の Laravel 9 版は [zihanki](https://github.com/youtatata/zihanki) リポジトリで公開しています。
