@@ -1,0 +1,19 @@
+# 機密情報
+.env
+
+# エディタ
+/.idea
+/.vscode
+/.fleet
+
+# Python (backend)
+.venv/
+__pycache__/
+.pytest_cache/
+*.db
+backend/uploads/
+
+# Node (frontend)
+node_modules/
+dist/
+npm-debug.log
